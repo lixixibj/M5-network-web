@@ -8,7 +8,8 @@
     "text": ""
   },
   "text": {
-    "more": "This is a social network analysis of the M5 competition virtual community. The figure displays the whole structure of the network, where each node represents one participant, and the link between two nodes indicates the interaction between the two participants.",
+    "more": "This is a social network analysis of the M5 competition virtual community. The figure displays the whole structure of the network, where each node represents one participant, and the link between two nodes indicates the interaction between the two participants. 
+    The weights refer to the total numbers of comments from one participant to the individual who publishes the posts. The total numbers of",
     "intro": "This is a social network analysis of the M5 competition virtual community.",
     "title": "M5 social network"
   },
