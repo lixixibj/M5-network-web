@@ -9,7 +9,8 @@
   },
   "text": {
     "more": "This is a social network analysis of the M5 competition virtual community. The figure displays the whole structure of the network, where each node represents one participant, and the link between two nodes indicates the interaction between the two participants. 
-    The weights refer to the total numbers of comments from one participant to the individual who publishes the posts. The total numbers of",
+    The weights refer to the total numbers of comments from one participant to the individual who publishes the posts. The total number of nodes and links of the network are 1165 and 2212, respectively. The larger the size of a node is, the more in-degree the corresponding participant could be.
+    Fore more details, please read our paper Exploring the social influence of Kaggle virtual community on the M5 competition",
     "intro": "This is a social network analysis of the M5 competition virtual community.",
     "title": "M5 social network"
   },
