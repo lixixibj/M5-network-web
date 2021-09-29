@@ -568,7 +568,7 @@ function nodeActive(a) {
 		console.log(d);
 		console.log(Number(d));
 		console.log(typeof Number(d)); 
-                h = '<span><strong>' + attr + ':</strong> ' + d + '</span><br/>'
+                h = '<span><strong>' + attr + ':</strong> ' + Number(d).toFixed(4) + '</span><br/>'
 			}
             //temp_array.push(f.attributes[g].attr);
             e.push(h)
