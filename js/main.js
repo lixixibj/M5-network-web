@@ -566,7 +566,8 @@ function nodeActive(a) {
 			if (attr!=image_attribute) {
 		console.log("test");
 		console.log(d);
-		console.log(typeof d); 
+		console.log(Number(d));
+		console.log(typeof Number(d)); 
                 h = '<span><strong>' + attr + ':</strong> ' + d + '</span><br/>'
 			}
             //temp_array.push(f.attributes[g].attr);
