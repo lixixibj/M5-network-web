@@ -14,7 +14,6 @@
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "Colour",
     "nodeLabel": "Participant"
   },
   "features": {
