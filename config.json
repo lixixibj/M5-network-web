@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Interaction (Comment or not)",
-    "nodeLabel": "Participant (Color degree decided by in-degree.)"
+    "nodeLabel": "Participant (Color degree decided by in-degree)"
   },
   "features": {
     "search": false,
