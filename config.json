@@ -8,7 +8,8 @@
     "text": ""
   },
   "text": {
-    "more": "This is a social network analysis of the M5 competition virtual community. Figure here displays the whole structure of the network, where each node represents one participant, and the link between two nodes indicates the interaction between the two participants. These ties are treated as directed and weighted.  The total numbers of nodes and links of the network are 1165 and 2212, respectively. The larger the size of a node is, the more in-degree the corresponding participant could be.",
+    "more": "This is a social network analysis of the M5 competition virtual community. Figure here displays the whole structure of the network, where each node represents one participant, and the link between two nodes indicates the interaction between the two participants. These ties are treated as directed and weighted.  The total numbers of nodes and links of the network are 1165 and 2212, respectively. The larger the size of a node is, the more in-degree the corresponding participant could be. 
+    The top five participants (No.83, No.38, No.13 No.63 and No.537) are identified by WID (Weighetd In-degree) in the network",
     "intro": "This is a social network analysis of the M5 competition virtual community.",
     "title": "M5 social network"
   },
