@@ -8,7 +8,7 @@
     "text": ""
   },
   "text": {
-    "more": "This is a social network analysis of the M5 competition virtual community.",
+    "more": "This is a social network analysis of the M5 competition virtual community. The figure displays the whole structure of the network, where each node represents one participant, and the link between two nodes indicates the interaction between the two participants.",
     "intro": "This is a social network analysis of the M5 competition virtual community.",
     "title": "M5 social network"
   },
@@ -31,7 +31,6 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
