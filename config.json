@@ -13,9 +13,8 @@
     "title": "M5 social network"
   },
   "legend": {
-    "edgeLabel": "Interaction",
-    "colorLabel": "Colour",
-    "nodeLabel": "Participant"
+    "edgeLabel": "Interaction (Comment or not)",
+    "nodeLabel": "Participant (Color degree decided by in-degree.)"
   },
   "features": {
     "search": false,
